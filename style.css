@@ -12,7 +12,7 @@
  p{line-height: 140%; text-align: left;}
  p > #description {max-width: 400px; min-width: 200px;}
  section{margin: 0px auto 40px auto; width: 40%;}
- span{display:block;}
+ span{display:block; line-height:125%;}
  span#copy{text-align: center;}
  ul{text-align: center; list-style-type: none;}
  table{text-align: center; margin: 0 auto 0 auto;}
