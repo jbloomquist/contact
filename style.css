@@ -7,8 +7,8 @@
 a{color: #66D9EF;}
 body{background-color: #272822; color: #F8F8F2; font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace; font-size: 9pt; font-weight: lighter; text-align: center;}
 footer{margin: 8% auto 0px auto;}
-h1{font-size: 14pt;}
-h2{font-size: 12pt;}
+h1{font-size: 14pt; white-space: nowrap; display: block;}
+h2{font-size: 12pt; white-space: nowrap; display: block;}
 img{border-radius: 50%; margin:5px auto 5px auto; text-align: center; display:inline;}
 header{margin: 10% auto 0px auto; width: 40%;}
 p{line-height: 140%; text-align: center;}
