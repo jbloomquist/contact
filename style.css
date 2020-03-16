@@ -15,7 +15,7 @@
  span#copy{text-align: center;}
  ul{text-align: center; list-style-type: none;}
  table{text-align: center; margin: 0 auto 0 auto;}
- tr{text-align: center;}
+ tbody{text-align:center;}
  td{text-align: left;}
 
  .center{text-align: center;}
