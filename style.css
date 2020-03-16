@@ -3,18 +3,16 @@
     section{margin: 0px auto 40px auto; width: 90%;}
 }
 
- a{color: #66D9EF;}
- body{background-color: #272822; color: #F8F8F2; font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace; font-size: 9pt; font-weight: lighter; text-align: center;}
- footer{margin: 10% auto 0px auto;}
- h1{font-size: 14pt;}
- h2{font-size: 12pt;}
- img{border-radius: 50%;}
- header{margin: 15% auto 0px auto; width: 40%;}
- p{line-height: 140%; text-align: center;}
- section{margin: 0px auto 40px auto; width: 40%;}
- span{display:block; line-height:125%; text-align:center;}
- table{text-align: center; margin: 0 auto 0 auto;}
- tbody{text-align:center;}
- td{text-align: left;padding: 5px 10px 5px 10px;}
+a{color: #66D9EF;}
+body{background-color: #272822; color: #F8F8F2; font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace; font-size: 9pt; font-weight: lighter; text-align: center;}
+footer{margin: 10% auto 0px auto;}
+h1{font-size: 14pt;}
+h2{font-size: 12pt;}
+img{border-radius: 50%;}
+header{margin: 15% auto 0px auto; width: 40%;}
+p{line-height: 140%; text-align: center;}
+section{margin: 0px auto 40px auto; width: 40%;}
+span{display:block; line-height:125%; text-align:center;}
 
- .center{text-align: center;}
+.button {background-color: #66D9EF; border: none; color: white; padding: 9px 16px; text-align: center; text-decoration: none; display: block; font-size: 10px; margin: 4px 2px; cursor: pointer;}
+.center{text-align: center;}
