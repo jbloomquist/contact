@@ -1,11 +1,11 @@
 @media screen and (max-width: 600px) {
-    header{margin: 6% auto 0px auto; width: 80%; text-align:center;}
+    header{margin: 8% auto 0px auto; width: 80%; text-align:center;}
     section{margin: 0px auto 14px auto; width: 80% !important;}
 }
 
 a{color: #66D9EF;}
 body{background-color: #272822; color:#F8F8F2; font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace; font-size:9pt; font-weight:lighter; text-align: center;}
-footer{margin: 4% auto 0px auto;}
+footer{margin: 6% auto 0px auto;}
 h1{font-size: 14pt; white-space:nowrap; display:block; text-align:center;}
 h2{font-size: 12pt; white-space:nowrap; display:block; text-align:center;}
 img{border-radius:50%; display:inline;}
