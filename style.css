@@ -19,3 +19,4 @@ pre{background-color: #222; border: 1px solid white; text-align:left; line-heigh
 
 .button {background-color:#66D9EF; border:none; color:white; padding: 9px 16px; text-align: center; text-decoration: none; display: block; font-size:10px; margin: 4px auto; cursor: pointer; min-width: 50px; width:fit-content;}
 .center{text-align: center;}
+.two-column{columns: 2; -webkit-columns: 2; -moz-columns: 2; margin:2px 3px 2px 3px; width: fit-content;}
