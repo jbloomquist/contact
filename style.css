@@ -1,35 +1,35 @@
 @media only screen and (max-width: 600px) {
-    main{width:100%}
+    main{width:100%;}
     header{margin: 6% auto 0px auto; width: 90%; text-align:center;}
     section{clear:both;margin: 0px auto 14px auto; width: 90% !important;}
 }
 
 @media only screen and (max-width: 800px) {
-    main{width:100%}
+    main{width:100%;}
     header{margin: 7% auto 0px auto; width: 90%; text-align:center;}
     section{clear:both;margin: 0px auto 14px auto; width: 80% !important;}
 }
 
 @media only screen and (max-width: 1000px) {
-    main{width:100%}
+    main{width:100%;}
     header{margin: 8% auto 0px auto; width: 80%; text-align:center;}
     section{clear:both;margin: 0px auto 14px auto; width: 70% !important;}
 }
 
 @media only screen and (max-width: 1200px) {
-    main{width:100%}
+    main{width:100%;}
     header{margin: 9% auto 0px auto; width: 80%; text-align:center;}
     section{clear:both;margin: 0px auto 14px auto; width: 60% !important;}
 }
 
 @media only screen and (max-width: 1400px) {
-    main{width:100%}
+    main{width:100%;}
     header{margin: 10% auto 0px auto; width: 80%; text-align:center;}
     section{clear:both;margin: 0px auto 14px auto; width: 50% !important;}
 }
 
 @media only screen and (max-width: 1920px) {
-    main{width:100%}
+    main{width:100%;}
     header{margin: 8% auto 0px auto; width: 70%; text-align:center;}
     section{clear:both;margin: 0px auto 14px auto; width: 40% !important;}
 }
