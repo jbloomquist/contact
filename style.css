@@ -1,5 +1,5 @@
 @media screen and (max-width: 600px) {
-    body{width:fit-content;}
+    main{width:fit-content;}
     header{margin: 8% auto 0px auto; width: 80%; text-align:center;}
     section{margin: 0px auto 14px auto; width: 80% !important;}
 }
