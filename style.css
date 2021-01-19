@@ -50,10 +50,15 @@ span{display:block; line-height:125%; text-align:center;}
 ul{line-height: 140%;list-style-type:none;margin-left:0px;padding-left:0px;}
 pre{background-color: #222; border: 1px solid white; text-align:left; line-height:150%; width:fit-content; margin:20px auto 20px auto;padding: 15px;}
 
-.button{background-color:#66D9EF; border:none; color:white; padding: 9px 16px; text-align: center; text-decoration: none; display: block; font-size:10px; margin: 4px auto 0px auto; cursor:pointer; min-width: 50px; width: fit-content;}
-.floatl{float:left;margin: 2px 5px 2px 5px}
-.floatr{float:right;}
+.block{display:block;}
+.inline{display:inline;}
+.inlb{display:inline-block;}
+
+.button{background-color:#66D9EF; border:none; color:white; padding: 9px 16px; text-align: center; text-decoration: none; font-size:10px; margin: 4px auto 0px auto; cursor:pointer; min-width: 50px; width: fit-content;}
 .center{text-align: center;}
+.floatl{float:left;}
+.floatr{float:right;}
+
 .two-col{columns: 2; -webkit-columns: 2; -moz-columns: 2; margin-left: 3px; margin-right: 3px; width: fit-content;}
 .three-col{columns: 3; -webkit-columns: 3; -moz-columns: 3; margin-left: 2px; margin-right: 2px; width: fit-content;}
 .four-col{columns: 4; -webkit-columns: 4; -moz-columns: 4; margin-left: 2px; margin-right: 2px; width: fit-content;}
