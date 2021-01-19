@@ -1,24 +1,24 @@
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width:600px) and (orientation:portrait) {
     main{width:90%;}
     header{margin: 8% auto 0px auto; width: 90%; text-align:center;}
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width:800px) and (orientation:portrait) {
     main{width:80%;}
     header{margin: 7% auto 0px auto; width: 90%; text-align:center;}
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width:1024px) and (orientation:portrait) {
     main{width:70%;}
     header{margin: 6% auto 0px auto; width: 80%; text-align:center;}
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width:1280px) and (orientation:portrait) {
     main{width:60%;}
     header{margin: 5% auto 0px auto; width: 80%; text-align:center;}
 }
 
-@media only screen and (max-width: 1920px) {
+@media only screen and (max-width: 1920px) and (orientation:portrait) {
     main{width:40%;}
     header{margin: 4% auto 0px auto; width: 80%; text-align:center;}   
 }
