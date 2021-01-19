@@ -1,26 +1,55 @@
-@media only screen and (max-width:600px) and (orientation:portrait) {
-    main{width:90%;}
-    header{margin: 8% auto 0px auto; width: 90%; text-align:center;}
-}
+/* Desktop Media Query*/
+@media only screen and (max-width:1920px) and (orientation:portrait) {
+    main{width:46%;} 
 
-@media only screen and (max-width:800px) and (orientation:portrait) {
-    main{width:80%;}
-    header{margin: 7% auto 0px auto; width: 90%; text-align:center;}
-}
-
-@media only screen and (max-width:1024px) and (orientation:portrait) {
-    main{width:70%;}
-    header{margin: 6% auto 0px auto; width: 80%; text-align:center;}
-}
+@media only screen and (max-width:1336px) and (orientation:portrait) {
+    main{width:50%;} 
 
 @media only screen and (max-width:1280px) and (orientation:portrait) {
-    main{width:60%;}
-    header{margin: 5% auto 0px auto; width: 80%; text-align:center;}
+    main{width:54%;} 
+
+/* Tablet Media Query */
+@media only screen and (max-width:1024px) and (orientation:portrait) {
+    main{width:58%;} 
 }
 
-@media only screen and (max-width: 1920px) and (orientation:portrait) {
-    main{width:40%;}
-    header{margin: 4% auto 0px auto; width: 80%; text-align:center;}   
+@media only screen and (max-width:900px) and (orientation:portrait) {
+    main{width:62%;} 
+
+@media only screen and (max-width:800px) and (orientation:portrait) {
+    main{width:66%;}
+}
+
+@media only screen and (max-width:768px) and (orientation:portrait) {
+    main{width:70%;}
+}
+
+@media only screen and (max-width:600px) and (orientation:portrait) {
+    main{width:76%;} 
+
+/* Phone Media Queries */
+@media only screen and (max-width:480px) and (orientation:portrait) {
+    main{width:86%;}
+}
+
+@media only screen and (max-width:414px) and (orientation:portrait) {
+    main{width:88%;}
+}
+
+@media only screen and (max-width:412px) and (orientation:portrait) {
+    main{width:88%;}
+}
+
+@media only screen and (max-width:375px) and (orientation:portrait) {
+    main{width:90%;}
+}
+
+@media only screen and (max-width:360px) and (orientation:portrait) {
+    main{width:94%;}
+}
+
+@media only screen and (max-width:320px) and (orientation:portrait) {
+    main{width:98%;}
 }
 
 a{color: #66D9EF;}
@@ -28,11 +57,11 @@ body{background-color: #272822; color:#F8F8F2; font-family: "Lucida Console", "L
 footer{margin: 6% auto 0px auto;}
 h1{font-size: 14pt; white-space:nowrap; }
 h2{display:inline-block;font-size: 12pt; margin-top:10px;}
-header{margin: 4% auto 0px auto; width: 80%; text-align:center;}
+header{margin: 4% auto 0px auto; width: 100%; text-align:center;}
 img{border-radius:50%; display:inline;}
 li{text-align: left;margin-bottom: 5px;}
 main{margin: 0px auto;}
-nav{margin:0 auto;text-align:center;width:fit-content;}
+nav{margin:0px auto;text-align:center;width:fit-content;}
 p{line-height: 140%;}
 section{clear:both;margin: 0px auto 40px auto; width: 100%;}
 span{display:block; line-height:125%; text-align:center;}
