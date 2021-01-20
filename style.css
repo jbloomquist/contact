@@ -65,7 +65,7 @@
 
 /* HTML Elements -- Global Style Application Values */
 a{
-    color: #7266ef;
+    color: #66D9EF;
     text-decoration: none;
 }
 
@@ -155,7 +155,7 @@ pre{
 
 /* Classes -- Custom, Miscellaneous Element Class Applicators */
 .button{ /* Intended to be used on <a> Elements. */
-    background-color:#66D9EF; 
+    background-color:#7266EF; 
     border:none; color:white; 
     padding: 9px 16px; 
     text-align: center; 
